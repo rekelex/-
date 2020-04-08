@@ -1,0 +1,39 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "JulioVerne",
+      "downloadURL": "https://f000.backblazeb2.com/file/quarklibrary/Spotify%2B%2B/Spotify%2B%2B.ipa",
+      "iconURL": "https://raw.githubusercontent.com/rekelex/-/master/spotiicon.png",
+      "localizedDescription": "",
+      "name": "Spotify",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/rekelex/-/master/spotiscreen.png",
+        "https://raw.githubusercontent.com/rekelex/-/master/spotisearch.png",
+        "https://raw.githubusercontent.com/rekelex/-/master/spotipodcast.png"
+      ],
+      "size": 6600,
+      "subtitle": "Spotify Premium Free",
+      "tintColor": "49FA1D",
+      "version": "8.5.7",
+      "versionDate": "2018",
+      "versionDescription": "NEW FEATURES\n• No Ads\n• Spotilife\n• Seeking Enabled\n• No Forced Shuffle\n• Unlimited Skips\n• Extreme Quality stream enabled\n• Import songs from Music app\n"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Rekelex",
+  "news": [
+    {
+      "appID": "com.rileytestut.Delta",
+      "caption": "Spotify Premium free.",
+      "date": "2018",
+      "identifier": "spotify-premium",
+      "imageURL": "https://raw.githubusercontent.com/rekelex/-/master/Spotify-.png",
+      "notify": false,
+      "tintColor": "49FA1D",
+      "title": "Free, Spotify Premium"
+    }
+  ],
+  "userInfo": {}
+}
